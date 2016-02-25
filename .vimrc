@@ -34,6 +34,7 @@ Bundle 'gmarik/vundle'
 Bundle 'fisadev/vim-debug.vim'
 " Better file browser
 Bundle 'scrooloose/nerdtree'
+Bundle 'jistr/vim-nerdtree-tabs'
 " Code commenter
 Bundle 'scrooloose/nerdcommenter'
 " Class/module browser
@@ -85,6 +86,7 @@ Bundle 't9md/vim-choosewin'
 Bundle 'scrooloose/syntastic'
 " Paint css colors with the real color
 Bundle 'lilydjwg/colorizer'
+
 " Relative numbering of lines (0 is the current line)
 " (disabled by default because is very intrusive and can't be easily toggled
 " on/off. When the plugin is present, will always activate the relative 
